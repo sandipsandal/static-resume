@@ -1,0 +1,122 @@
+#header{
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    /* grid-template-columns: 2fr 5fr; */
+    background: black;
+    color:white;
+}
+#image{
+    height: 150px;
+    width: 150px;
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    margin:20px;
+}
+#name{
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 20px;
+}
+#underline{
+    width: 360px;
+    height: 2px;
+    /* margin-top: 20px; */
+    background: whitesmoke;
+}
+#exp{
+    background: #cdcdcf;
+    padding: 10px;
+    font-weight: bold;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 20px;
+}
+#left-margin{
+    margin-left: 50px;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+    margin-right: 50px;
+}
+#exp-explain{
+    font-weight: lighter;
+    text-align: justify;
+}
+#contacts{
+    background: #cdcdcf;
+    padding: 10px;
+    font-weight: bold;
+}
+.glyphicon {
+    line-height: 3;
+}
+
+#skills{
+    background: #cdcdcf;
+    padding: 10px;
+    font-weight: bold;
+    
+
+}
+#icon-grid{
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+}
+.icons{
+    margin-left: 50px;
+    margin-top: 2px;
+    /* margin-bottom: 20px; */
+}
+#icon-space{
+    margin-bottom: 10px;
+}
+
+.address{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+/* .skill{
+    
+    margin-bottom: 50px;
+} */
+/* .skill-text{
+    margin-left: 25px;
+} */
+/* #ui{
+    display:grid;
+    grid-template-columns: 0.5fr 1.5fr ;
+    margin-left: 10px;
+    margin-right: 15px;
+} */
+.skill-text{
+    font-weight: bold;
+    margin-left: 25px;
+    
+}
+.text-css{
+    margin-bottom: 20px;
+}
+
+.progress-bar{
+    background:#cdcdcf;
+    background-color: rgb(46, 45, 45);
+    widows: 80%;
+    
+}
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+    width: 94%;
+    margin-left: 20px;
+    width: 80%;
+}
